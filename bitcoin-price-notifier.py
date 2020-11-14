@@ -11,8 +11,7 @@ Telegram_emergency_applet = "coin_emergency_price_telegram"
 
 Email_applet = "coin_price_email"
 
-ifttt_webhooks_url = 'https://maker.ifttt.com/trigger`\
-`/{destination_type}/with/key/FxXkblst8aNIFLhr36jgi'
+ifttt_webhooks_url = 'https://maker.ifttt.com/trigger/{destination_type}/with/key/FxXkblst8aNIFLhr36jgi'
 
 
 def get_crypto_price(coinType, currency):
