@@ -49,7 +49,7 @@ optional arguments:
  destination = 'Telegram'
  ```
  
-## How to Run
+### How to Run
  
 Go to the root folder where you have downloaded the file using command line.
 
