@@ -68,7 +68,7 @@ and you can use variable/arguments of your choice.
 
 ## Work Flow and Description 
 
-The general process to run the code and it will make an API calll to coinmarket API(https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest) to get the updated price of crypto currency and then it will show updated price on telegram or email.
+The general process is to run the code and it will make an API calll to coinmarket API(https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest) to get the updated price of crypto currency and then it will show updated price on telegram or email.
 
 If user provides coin type of crypto currncy then it will fetch the price for that coin type such as bitcoin, ethereum , litecoin etc.
 
