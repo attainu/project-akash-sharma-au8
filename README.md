@@ -1,4 +1,4 @@
-# Bitcoin-Price-Notification
+# Bitcoin-Price
 As we all know, Crypto Currency price is a fickle thing. You never really know where it's going to be at the end of the day. So, instead of constantly checking various sites for the latest updates, this project will send price notifications for every time interval and also notify whenever price reach to a certain threshold value provided.
 
 ## Project Overview
